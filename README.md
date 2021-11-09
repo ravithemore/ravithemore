@@ -13,8 +13,8 @@
 <br />
 
 
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a 2nd year pursuing my Bachelors in Computer Science & Engineering. </br>
+# ME:
+🎓 I’m an AI enthusiast & a 2nd year pursuing my Bachelors in Computer Science & Engineering. </br>
 - 💞️ I’m looking to collaborate on ... projects which include python, c++,HTML, CSS, JAVASCRIPT and java DSA. </br>
 - 💻 Also Interested in WEB DEVELOPMENT. </br>
 
