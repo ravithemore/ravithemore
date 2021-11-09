@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ravithemore
-- 👀 I’m interested in ... programming and exploring new technology releted topics, they ike inspire me a lot.
-- 🌱 I’m currently learning ... mysql and other competitive programming languages.
-- 💞️ I’m looking to collaborate on ... projects which include python, c++, and java
+- 👋 Hi, I’m Ravi M Damor.
+- 💞️ I’m looking to collaborate on ... projects which include python, c++, and java DSA
 - 💻 Also Interested in WEB DEVELOPMENT.
 - 📫 How to reach me ... mail :damorravi540@gmail.com
 
