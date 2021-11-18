@@ -6,7 +6,7 @@
 </a>
 <a href="https://twitter.com/Ravithemore?t=X_YeZWv_BVXZiOgD1-6yQQ&s=08">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  <a href="mailto:sdthakor.8485@gmail.com"><img align="left" width="52px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
+  <a href="mailto:damorravi540@gmail.com"><img align="left" width="52px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
 </a>
 
 <br />
