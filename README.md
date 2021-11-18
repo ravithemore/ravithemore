@@ -28,9 +28,9 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore" />
+<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore" />
 
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
+<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
 
 <!---
 ravithemore/ravithemore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
