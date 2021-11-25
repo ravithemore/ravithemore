@@ -34,12 +34,14 @@
 <p>
 <img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
 </p>
-
-
-
-
 <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
 
+
+<p align="center">
+<a href="https://github.com/ravithemore/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ravithemore&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 <!---
 ravithemore/ravithemore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
