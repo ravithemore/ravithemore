@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ravi Damor!
+# HEY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'M RAVI DAMOR 😎!<a href="https://bio.link/ravithemore">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://www.linkedin.com/in/ravimdamor9450">
@@ -12,14 +12,20 @@
 <br />
 
 
-## ME:
+## ME
 
-🎓 I’m an AI enthusiast & a 2nd year pursuing my Bachelors in Computer Science & Engineering. </br>
-- 💞️ I’m looking to collaborate on ... projects which include:)
+- A CSE sophomore at VIT Bhopal.
+- AI-ML Enthusiast.
+- Love to code💻.
+- Music 🎵🎧.
+- CODE💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
+- Interested in WEB DEVELOPMENT. 
+  
+ ## Languages I code in:
  
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <br />
-- 💻 Also Interested in WEB DEVELOPMENT.
+
 
 <br />
 
