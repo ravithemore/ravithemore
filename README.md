@@ -12,14 +12,16 @@
 <br />
 
 
-## ME
+## ME 🙋
 
-- A CSE sophomore at VIT Bhopal.
-- AI-ML Enthusiast.
-- Love to code💻.
-- Music 🎵🎧.
-- CODE💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
-- Interested in WEB DEVELOPMENT. 
+- 🎓A CSE sophomore at VIT Bhopa.
+- 🧠AI-ML Enthusias.
+- 💻Love to code.
+- 🎵Music .
+- 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
+- 📺Interested in WEB DEVELOPMEN.
+- 🪧I am currently learning Data Structures and Algorithm. 
+- ⚡Fun fact: I spend almost 12 hours listening to 🎧Music Everyday.
   
  ## Languages I code in:
  
