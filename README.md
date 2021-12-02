@@ -20,7 +20,7 @@
 - 🎵Music .
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
 - 📺Interested in WEB DEVELOPMENT.
-- 🪧I am currently learning Data Structures and Algorithm's. 
+- 🪧I am currently learning Data Structures and Algorithms. 
 - ⚡Fun fact: I spend almost 12 hours listening to 🎧Music Everyday.
   
  ## Languages I code in:
