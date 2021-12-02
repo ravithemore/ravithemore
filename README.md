@@ -12,15 +12,15 @@
 <br />
 
 
-## ME 🙋
-
-- 🎓A CSE sophomore at VIT Bhopa.
-- 🧠AI-ML Enthusias.
+## ME 🙋 
+- 🕹️A machine that turns ☕coffee into Code.
+- 🎓A CSE sophomore at VIT Bhopal.
+- 🧠AI-ML Enthusiast.
 - 💻Love to code.
 - 🎵Music .
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
-- 📺Interested in WEB DEVELOPMEN.
-- 🪧I am currently learning Data Structures and Algorithm. 
+- 📺Interested in WEB DEVELOPMENT.
+- 🪧I am currently learning Data Structures and Algorithm's. 
 - ⚡Fun fact: I spend almost 12 hours listening to 🎧Music Everyday.
   
  ## Languages I code in:
