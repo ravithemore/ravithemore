@@ -23,7 +23,7 @@
 - 🪧I am currently learning Data Structures and Algorithms. 
 - 📺Interested in WE DEVELOPMET.
 - 🪧I am currently learning Data Structures and Algorithm's. 
-- ⚡Fun fact: I spend almost 12 hours listening to 🎧Music Everyday.
+- ⚡Fun fact: I spend almost 12 hours listening to Music🎧 Everyday.
   
  ## Languages I code In: 🧑‍💻
  
