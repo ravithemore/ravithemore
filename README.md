@@ -16,7 +16,6 @@
 - 🕹️A machine that turns ☕coffee into Code.
 - 🎓A CSE sophomore at VIT Bhopal.
 - 🧠AI-ML Enthusiast.
-- 💻Love to code.
 - 🎵Music .
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
 - 📺Interested in WEB DEVELOPMENT.
