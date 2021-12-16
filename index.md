@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ravithemore/ravithemore/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# HEY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'M [RAVI](https://ravithemore.github.io/website/web)😎!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://www.linkedin.com/in/ravimdamor9450">
+  <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/Ravithemore?t=X_YeZWv_BVXZiOgD1-6yQQ&s=08">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <a href="mailto:damorravi540@gmail.com"><img align="left" width="52px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
+</a>
 
-### Markdown
+<br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##  ME 🙋 
+- 🕹️A machine that turns ☕coffee into Code.
+- 🎓A CSE sophomore at VIT Bhopal.
+- 🧠AI-ML Enthusiast.
+- 🎵Music .
+- 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
+- 📺Interested in WEB DEVELOPMENT.
+- 🪧I am currently learning Data Structures and Algorithms. 
+- 📺Interested in WE DEVELOPMET.
+- 🪧I am currently learning Data Structures and Algorithm's. 
+- ⚡Fun fact: I spend almost 12 hours listening to Music🎧 Everyday.
+  
+ ## Languages I code In: 🧑‍💻
+ 
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br />
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<br />
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ravithemore/ravithemore/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<hr>
 
-### Support or Contact
+<p>
+<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
+</p>
+<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<p align="center">
+<a href="https://github.com/ravithemore/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ravithemore&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+<!---
+ravithemore/ravithemore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
