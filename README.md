@@ -14,7 +14,7 @@
 
 
 ##  ME 🙋 
-- 🕹️A machine that turns ☕coffee into Code.
+- 🕹️A machine that turns ☕coffee into .
 - 🎓A CSE sophomore at VIT Bhopal.
 - 🧠AI-ML Enthusiast.
 - 🎵Music .
