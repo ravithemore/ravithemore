@@ -14,7 +14,7 @@
 
 
 ##  ME 🙋 
-- 🎓A CSE sophomore at VIT .
+- 🎓A CSE sophomore at VIT B .
 - 🧠AI-ML Enthusiast.
 - 🎵Music .
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
