@@ -14,7 +14,7 @@
 
 
 ##  ME 🙋 
-- 🎓A CSE sophomore at .
+- 🎓A CSE sophomore at V .
 - 🧠AI-ML Enthusiast.
 - 🎵Music .
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
