@@ -13,7 +13,7 @@
 <br />
 
 
-##  ME 🙋 
+##  ME 🙋: 
 - 🎓A CSE sophomore at VIT Bhopal .
 - 🧠AI-ML Enthusiast.
 - 🎵Music .
