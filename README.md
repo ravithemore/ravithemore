@@ -1,5 +1,5 @@
 
-# HEY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'M [RAVI](https://ravithemore.github.io/website/web)😎
+# HEY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'M [RAVI](https://ravithemore.github.io/website/web)😎!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://www.linkedin.com/in/ravimdamor9450">
