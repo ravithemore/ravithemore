@@ -16,7 +16,7 @@
 ##  ME 🙋
 - 🎓A CSE sophomore at VIT Bhopal.
 - 🧠AI-ML Enthusiast.
-- 🎵Music .
+- 🎵Music.
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
 - 📺Interested in WEB DEVELOPMENT.
 - 🪧I am currently learning Data Structures and Algorithm's. 
