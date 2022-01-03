@@ -3,10 +3,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://www.linkedin.com/in/ravimdamor9450">
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
+  <img align="left" width="28px" src="https://raw.githubusercontent.com/bornmay/bornmay/master/linkedin.png"  />
 </a>
 <a href="https://twitter.com/Ravithemore?t=X_YeZWv_BVXZiOgD1-6yQQ&s=08">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/bornmay/bornmay/master/twitter.png" />
   <a href="mailto:damorravi540@gmail.com"><img align="left" width="52px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
 </a>
 
