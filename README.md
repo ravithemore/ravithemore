@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/ravithemore/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=ravithemore&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ravithemore&theme=react-dark&area=true&hide_border=true" width="150%">
 </a>
 </p>
 
