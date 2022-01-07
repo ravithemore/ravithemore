@@ -51,8 +51,12 @@
 
 <p align="center">
 <a href="https://github.com/ravithemore/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=ravithemore&theme=react-dark&area=true&hide_border=true" width="150%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ravithemore&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 <!---
