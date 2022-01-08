@@ -21,7 +21,7 @@
 - 🎓A CSE sophomore at VIT Bhopal.
 - 🧠AI-ML Enthusiast.
 - 🎵Music.
-- 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
+- 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat🔁.
 - 📺Interested in WEB DEVELOPMENT.
 - 🪧I am currently learning Data Structures and Algorithm's. 
 - 🕹️A machine that turns ☕coffee into code.
