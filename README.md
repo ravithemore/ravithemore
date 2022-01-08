@@ -1,6 +1,6 @@
 
 ![](https://github.com/ravithemore/ravithemore/blob/main/assests/header_.png)
-# HEY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'M [RAVI](https://ravithemore.github.io/website/web)😎! ![](https://readme-typing-svg.herokuapp.com?font=Ravie&color=F7F7F7&size=21&center=true&vCenter=true&lines=Java+Coder;Open+Source+Enthusiast;Web+Developer)
+# HEY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'M [RAVI](https://ravithemore.github.io/website/web) <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> ![](https://readme-typing-svg.herokuapp.com?font=Ravie&color=F7F7F7&size=21&center=true&vCenter=true&lines=Java+Coder;Open+Source+Enthusiast;Web+Developer)
 
 
 
