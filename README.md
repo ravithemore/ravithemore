@@ -46,8 +46,7 @@
 <p>
 <img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
 </p>
-<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
-
+<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" /> 
 
 <p align="center">
 <a href="https://github.com/ravithemore/github-readme-activity-graph">
