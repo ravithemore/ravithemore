@@ -20,10 +20,10 @@
 ##  ME 🙋
 - 🎓A CSE sophomore at VIT Bhopal.
 - 🧠AI-ML Enthusiast.
-- 🎵Music.
-- 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat🔁.
 - 📺Interested in WEB DEVELOPMENT.
 - 🪧I am currently learning Data Structures and Algorithm's. 
+- 🎵Music.
+- 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat🔁.
 - 🕹️A machine that turns☕coffee into code.
 - ⚡Fun fact: I spend almost 12 hours listening to Music🎧 Everyday.
   
