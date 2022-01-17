@@ -47,9 +47,12 @@
 <hr>
 
 <p>
-<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
+<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" /> <img align='right' width='300' src="https://github.com/ravithemore/ravithemore/blob/main/assests/profile-first-pr-dark.svg" />
+
 </p>
-<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" /> 
+<p>
+<img  width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" /> 
+ </p> 
 
 <p align="center">
 <a href="https://github.com/ravithemore/github-readme-activity-graph">
