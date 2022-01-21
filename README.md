@@ -25,7 +25,7 @@
 - 🎵Music.
 - 💻CODE➡ Eat😋 ➡ Sleep💤 ➡ Repeat🔁.
 - 🕹️A Machine that turns☕coffee into code.
-- ⚡Fun fact: I spend almost 12 hours listening to Music🎧 Everyday.
+- ⚡Fun fact:I spend almost 12 hours listening to Music🎧 Everyday.
   
  ## Languages I code In 🧑‍💻
  <p align="left"> 
