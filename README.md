@@ -42,14 +42,13 @@
 
 
 <p>
-<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
+   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
 </p>
 
 
 
 
 
-<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
