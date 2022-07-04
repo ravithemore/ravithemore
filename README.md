@@ -22,7 +22,7 @@
 </div>  
 
 <br />
-
+<img align ="right" alt = "coding" width  = "400" src = "https://user-images.githubusercontent.com/87522195/176680662-7094efd8-de4a-4632-baf3-5cc9c47e2024.png">
 
 ## About Me😊
 - 🎓A CSE Junior at VIT Bhopal
@@ -34,18 +34,23 @@
 - 📫 How to reach me: damorravi540@gmail.com <br>
 
 
-<img align ="right" alt = "coding" width  = "400" src = "https://user-images.githubusercontent.com/87522195/176680662-7094efd8-de4a-4632-baf3-5cc9c47e2024.png">
+
 
  
  
  
- 
 
 
 
-<p>
-   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" />
+
+## Stats:
+
+ <p>
+   <img width='400' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" /> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp &nbsp &nbsp &nbsp  <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
 </p>
+
+
+
 
 
 
