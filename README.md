@@ -24,18 +24,20 @@
 <br />
 
 
-## About Me
-- Love to code 💻.
-- A CSE sophomore at VIT Bhopal.
-- AI-ML Enthusiast.
-- Music🎵.
-- Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
+## About Me😊
+- 🎓A CSE Junior at VIT Bhopal
+- 💻Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
+- 👨‍💻Front End Web Developer with Basic UI/UX .
+- 📖Learning DATA STRUCTURES AND ALGORITHM'S.
+- 🎈FUN Fact: I spend almost 12 hours listening Music
+- 👯I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
+- 📫 How to reach me: damorravi540@gmail.com <br>
+
 
 <img align ="right" alt = "coding" width  = "400" src = "https://user-images.githubusercontent.com/87522195/176680662-7094efd8-de4a-4632-baf3-5cc9c47e2024.png">
 
- 🔭 I’m currently working on <B> Web development </B> <br>
- 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
- 📫 How to reach me: damorravi540@gmail.com <br>
+ 
+ 
  
  
 
