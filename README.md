@@ -1,5 +1,5 @@
 <h1 align="center">𝗛i <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="40px" width="40px">𝗜'𝗺 RAVI ✨</h1>
-<img align = "right" alt = "coding" width = "100"  src = "https://user-images.githubusercontent.com/87522195/177200911-961f4050-9d61-48a4-b560-6124872d957b.png">
+
 
 
 
@@ -23,7 +23,7 @@
 </div>  
 
 <br />
-<img align ="right" alt = "coding" width  = "400" src = "https://user-images.githubusercontent.com/87522195/176680662-7094efd8-de4a-4632-baf3-5cc9c47e2024.png">
+<img align = "right" alt = "coding" width = "200"  src = "https://user-images.githubusercontent.com/87522195/177201343-e4d545c3-bd19-4a6a-875c-8aae768dc5b7.png">
 
 ## About Me😊
 - 🎓A CSE Junior at VIT Bhopal
