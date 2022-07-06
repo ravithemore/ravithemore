@@ -1,5 +1,5 @@
 <h1 align="center">𝗛i <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="40px" width="40px">𝗜'𝗺 RAVI ✨</h1>
-<img align = "right" alt = "coding" width = "220"  src = "https://user-images.githubusercontent.com/87522195/177201343-e4d545c3-bd19-4a6a-875c-8aae768dc5b7.png">
+<img align = "right" alt = "coding" width = "220"  src = "https://user-images.githubusercontent.com/87522195/177504295-f59f5969-dbf9-4092-9695-868fdd399afe.png">
 
 
 
