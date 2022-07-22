@@ -46,11 +46,12 @@
 
 ## Stats:
 
-
+ <img align = "right" alt = "coding" width = "320"  src = "https://user-images.githubusercontent.com/87522195/180365630-6936f99c-6c3c-470f-9551-dfc0a8d0c40f.png">
+</p>
 
  <p>
    <img width='350' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" /> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   <img width='350' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
-</p>
+  
 
 
 
