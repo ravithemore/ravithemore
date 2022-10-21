@@ -25,7 +25,7 @@
 <br />
 
 
-## About Me😊
+## About Me.😊
 - 🎓A CSE Junior at VIT Bhopal
 - 💻Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
 - 👨‍💻Front End Web Developer .
