@@ -58,7 +58,10 @@
   
 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ravithemore/count.svg" />
+</p>
 
 
 
@@ -68,5 +71,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+
 
 
