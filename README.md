@@ -47,7 +47,7 @@
 
 ## Stats:
 
- <img align = "right" alt = "coding" width = "220"  src = "https://user-images.githubusercontent.com/87522195/180365630-6936f99c-6c3c-470f-9551-dfc0a8d0c40f.png">
+ 
 </p>
 
  <p>
