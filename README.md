@@ -71,12 +71,11 @@
 
 
 
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ravithemore.ravithemore)
 
 
 
