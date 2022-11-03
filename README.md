@@ -32,7 +32,7 @@
 - 🎓A CSE Junior at VIT Bhopal.
 - 💻Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
 - 👨‍💻Front End Web Developer .
-- 🍧UI / UX designer
+- 🍧UI / UX designer.
 - 📖Learning DATA STRUCTURES AND ALGORITHM'S.
 - 🎈FUN Fact: I spend almost 12 hours listening Music
 - 👯I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
