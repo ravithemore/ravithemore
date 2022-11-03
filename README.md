@@ -1,8 +1,8 @@
 
-<img align = "right" alt = "coding" width = "2050"  src = "https://user-images.githubusercontent.com/87522195/199707270-4531c90d-2024-45e2-94fd-88ef9af69eb1.png">
+![](https://user-images.githubusercontent.com/87522195/199707270-4531c90d-2024-45e2-94fd-88ef9af69eb1.png)
 <!-- <h1 align="center">𝗛i <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="40px" width="40px">𝗜'𝗺 RAVI ✨</h1> -->
 
-
+<br>
 <img align = "right" alt = "coding" width = "215"  src = "https://user-images.githubusercontent.com/87522195/177504295-f59f5969-dbf9-4092-9695-868fdd399afe.png">
 
 
@@ -11,7 +11,7 @@
 
 
 
-## Connect with me 
+## Connect with me.😇
 <div align="center">
 <a href="https://github.com/ravithemore" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
