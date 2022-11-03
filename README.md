@@ -48,20 +48,17 @@
 
 
 
-## Stats:
-
- 
-</p>
-
- <p>
-   <img width='350' src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=radical" /> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   <img width='350' src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore" />
-  
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ravithemore/count.svg" />
-</p>
+## Stats
+ <p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravithemore&theme=dark" width="45%" align="left"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ravithemore&theme=dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="45%" align="right"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" align="left" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravithemore&theme=moonlight" width="58%" align="right" />
+ <!--
+  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu1810&row=1(https://github.com/divyanshu1810/github-profile-trophy)" />
+-->
+<p/>
 
 
 
