@@ -3,7 +3,9 @@
 <h1 align="center">𝗛i <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="40px" width="40px">𝗜'𝗺 RAVI ✨</h1>
 
 <br>
-<img align = "right" alt = "coding" width = "215"  src = "https://user-images.githubusercontent.com/87522195/177504295-f59f5969-dbf9-4092-9695-868fdd399afe.png">
+<!-- <img align = "right" alt = "coding" width = "215"  src = "https://user-images.githubusercontent.com/87522195/177504295-f59f5969-dbf9-4092-9695-868fdd399afe.png"> -->
+<img align = "right" alt = "coding" width = "475"  src = "https://user-images.githubusercontent.com/92288027/228864077-c1d8a2e4-8dc5-49e6-8072-c91b9bb7edca.gif">
+
 
 
 
