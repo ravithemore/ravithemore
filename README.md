@@ -39,7 +39,6 @@
 
 ## About Me.😊
 - 🎓A CSE Junior at VIT Bhopal.
-<!-- - 💻Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁. -->
 - 👨‍💻Front End Web Developer .
 - 🍧UI / UX designer.
 - 📖Learning DATA STRUCTURES AND ALGORITHM'S.
