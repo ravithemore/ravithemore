@@ -4,7 +4,7 @@
 ## Skills:🤹‍♂️
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,aws,mysql,py)](https://skillicons.dev)
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,idea,netlify,stackoverflow,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,idea,netlify,stackoverflow,vercel,vscode,postman)](https://skillicons.dev)
 
 
 
