@@ -1,143 +1,104 @@
-# Hi, I'm Ravi 👋
+<div align="center">
+  <h1>Hi, I'm Ravi Damor 👋</h1>
+  <p><h3>Full-Stack Software Engineer • Java & Spring Boot • AI & Developer Tools Builder</h3></p>
 
-### Full-Stack Software Engineer • Java & Spring Boot • AI & Developer Tools Builder
-
-I'm a Software Engineer passionate about building products that combine thoughtful design, scalable backend systems, and practical AI.
-
-Currently working with **Java, Spring Boot, Next.js, PostgreSQL, Docker, and AWS**, I enjoy building products that solve real-world problems—from social platforms and fintech applications to developer productivity tools.
-
----
-
-## 🚀 Featured Projects
-
-### 📚 DogEar
-> Discover books through people, not algorithms.
-
-A modern social reading platform where readers share reviews, quotes, reading journals, and discover books through a community-driven feed.
-
-**Tech Stack**
-- Spring Boot
-- Next.js
-- PostgreSQL
-- Redis
-- JWT Authentication
-- Docker
-
-🔗 https://github.com/ravithemore/DogEar
+  <p>
+    <a href="https://linkedin.com/in/ravithemore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://expend-lens.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:damorravi540@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 💰 ExpenseLens
-> Know exactly where every rupee goes.
+### 🚀 About Me
 
-A privacy-first financial intelligence platform that transforms bank statements into beautiful, interactive spending insights with merchant intelligence, analytics, and monthly financial stories.
+I'm a **Full-Stack Software Engineer** passionate about building products that combine thoughtful design, scalable backend systems, and practical AI. 
 
-**Tech Stack**
-- Spring Boot
-- Next.js
-- PostgreSQL
-- Tailwind CSS
-- Framer Motion
+Currently specializing in **Java, Spring Boot, Next.js, PostgreSQL, Docker, and AWS**, I enjoy owning the entire product journey—from static code parsing and fintech dashboards to community-driven social systems.
 
 ---
 
-### 🏙️ CodeScape *(Coming Soon)*
-> Google Maps for your codebase.
+### 💻 Tech Stack
 
-An interactive software visualization platform that transforms Java/Spring Boot projects into navigable architecture maps using graph analysis and static code parsing.
+<details open>
+  <summary><b>Languages & Core</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql" />
+  </p>
+</details>
 
----
+<details open>
+  <summary><b>Backend Engineering</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  </p>
+  <ul>
+    <li>Spring Boot, Spring Security, Spring JPA / Hibernate</li>
+    <li>RESTful API Design, JWT Authentication, Microservices</li>
+  </ul>
+</details>
 
-## 💻 Tech Stack
+<details open>
+  <summary><b>Frontend & UI</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+  </p>
+  <ul>
+    <li>Next.js, React, Tailwind CSS</li>
+    <li>Framer Motion, shadcn/ui</li>
+  </ul>
+</details>
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- JPA / Hibernate
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</p>
-
-- Next.js
-- React
-- Tailwind CSS
-- Framer Motion
-- shadcn/ui
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel" />
-</p>
+<details open>
+  <summary><b>Database, Cloud & Tools</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,git,github,vscode,idea,postman,figma,vercel" />
+  </p>
+</details>
 
 ---
 
-# 🌱 Currently Exploring
+### 🛠️ Featured Projects
 
-- AI Agents
-- LLM Applications
-- System Design
-- Developer Tooling
-- Distributed Systems
-- Software Architecture
-- Product Design
+#### 📚 [DogEar](https://github.com/ravithemore/DogEar)
+> *Discover books through people, not algorithms.*
+* **Description:** A modern social reading platform where readers share reviews, quotes, journals, and build community.
+* **Tech Stack:** Spring Boot, Next.js, PostgreSQL, Redis, JWT, Docker
+* **Links:** [Code Repository](https://github.com/ravithemore/DogEar) | [Live Site](https://dog-ear-nu.vercel.app)
 
----
+#### 💰 [ExpenseLens (Expend-lens)](https://github.com/ravithemore/Expend-lens)
+> *Know exactly where every rupee goes.*
+* **Description:** A privacy-first financial intelligence platform transforming raw bank statement CSV files into beautiful interactive spending insights.
+* **Tech Stack:** Spring Boot, Next.js, PostgreSQL, Tailwind CSS, Framer Motion
+* **Links:** [Code Repository](https://github.com/ravithemore/Expend-lens) | [Live Site](https://expend-lens.vercel.app/)
 
-# 🎯 2026 Goals
-
-- 🚀 Build CodeScape
-- ⭐ Contribute to Open Source
-- 📚 Learn Kubernetes & Kafka
-- 🤖 Build AI-powered developer tools
-- 🌍 Launch products used by real users
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ravithemore&theme=github-dark-blue&hide_border=true"/>
-</p>
+#### 🏙️ **CodeScape** *(Coming Soon)*
+> *Google Maps for your codebase.*
+* **Description:** An interactive software visualization platform transforming Java/Spring Boot projects into navigable architecture maps.
+* **Tech Stack:** Graph Analysis, Static Code Parsing, Spring Boot, React
 
 ---
 
-# 🤝 Let's Connect
+### 🌱 Currently Exploring
 
-🌐 Portfolio: https://ravithemore.netlify.app
-
-💼 LinkedIn: https://linkedin.com/in/ravithemore
-
-📧 Email: damorravi540@gmail.com*
+- 🤖 **AI Agents & LLM Integrations** for developer workflow automation.
+- 📐 **Software Architecture & System Design** for high-throughput distributed systems.
+- 🎨 **Product Design** focusing on micro-interactions and glassmorphic aesthetics.
 
 ---
 
-> *"I enjoy building products that solve real problems through thoughtful engineering, clean design, and practical AI."*
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact&theme=github_dark&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravithemore&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>"I enjoy building products that solve real problems through thoughtful engineering, clean design, and practical AI."</i>
+</div>
