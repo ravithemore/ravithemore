@@ -88,16 +88,6 @@ Currently specializing in **Java, Spring Boot, Next.js, PostgreSQL, Docker, and 
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravithemore&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravithemore&layout=compact&theme=github_dark&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravithemore&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
 
 <div align="center">
   <i>"I enjoy building products that solve real problems through thoughtful engineering, clean design, and practical AI."</i>
