@@ -15,7 +15,7 @@
 
 I'm a **Full-Stack Software Engineer** passionate about building products that combine thoughtful design, scalable backend systems, and practical AI. 
 
-Currently specializing in **Java, Spring Boot, Next.js, PostgreSQL, Docker, and AWS**, I enjoy owning the entire product journey—from static code parsing and fintech dashboards to community-driven social systems.
+Currently specializing in **Java, Spring Boot, Next.js, PostgreSQL,Angular, Docker, and AWS**, I enjoy owning the entire product journey—from static code parsing and fintech dashboards to community-driven social systems.
 
 ---
 
