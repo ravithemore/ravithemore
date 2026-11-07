@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+[![GitShame Score](https://img.shields.io/badge/GitShame%20Score-94%2F100-3b82f6?style=for-the-badge&logo=github)](https://gitshame.dev/?user=ravithemore)
 ### 🚀 About Me
 
 I'm a **Full-Stack Software Engineer** passionate about building products that combine thoughtful design, scalable backend systems, and practical AI..
@@ -87,7 +87,6 @@ Currently specializing in **Java, Spring Boot, Next.js, PostgreSQL,Angular, Dock
 - 🎨 **Product Design** focusing on micro-interactions and glassmorphic aesthetics.
 
 ---
-
 
 <div align="center">
   <i>"I enjoy building products that solve real problems through thoughtful engineering, clean design, and practical AI."</i>
