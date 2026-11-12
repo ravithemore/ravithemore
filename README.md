@@ -1,93 +1,71 @@
-<div align="center">
-  <h1>Hi, I'm Ravi👋 </h1>
-  <p><h3>Full-Stack Software Engineer • Java & Spring Boot • AI & Developer Tools Builder</h3></p>
+# Ravi M Damor
 
-  <p>
-    <a href="https://linkedin.com/in/ravithemore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://ravithemore.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="mailto:damorravi540@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+**Software Engineer** • Distributed Systems, Backend Architecture & Developer Tooling  
+Bangalore, India • [LinkedIn](https://linkedin.com/in/ravithemore) • [Portfolio](https://ravithemore.vercel.app/) • [damorravi540@gmail.com](mailto:damorravi540@gmail.com)
 
----
 [![GitShame Score](https://img.shields.io/badge/GitShame%20Score-94%2F100-3b82f6?style=for-the-badge&logo=github)](https://gitshame.dev/?user=ravithemore)
-### 🚀 About Me
-
-I'm a **Full-Stack Software Engineer** passionate about building products that combine thoughtful design, scalable backend systems, and practical AI..
-
-Currently specializing in **Java, Spring Boot, Next.js, PostgreSQL,Angular, Docker, and AWS**, I enjoy owning the entire product journey—from static code parsing and fintech dashboards to community-driven social systems.
 
 ---
 
-### 💻 Tech Stack
+### Overview
 
-<details open>
-  <summary><b>Languages & Core</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,sql" />
-  </p>
-</details>
+Full-stack and backend engineer focused on building resilient distributed systems, developer platforms, and data-intensive applications. Experienced in designing concurrent backend services, static analysis engines, and transactional pipelines across the Go and Java ecosystems.
 
-<details open>
-  <summary><b>Backend Engineering</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-  </p>
-  <ul>
-    <li>Spring Boot, Spring Security, Spring JPA / Hibernate</li>
-    <li>RESTful API Design, JWT Authentication, Microservices</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><b>Frontend & UI</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-  </p>
-  <ul>
-    <li>Next.js, React, Tailwind CSS</li>
-    <li>Framer Motion, shadcn/ui</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><b>Database, Cloud & Tools</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,git,github,vscode,idea,postman,figma,vercel" />
-  </p>
-</details>
+- **Core Focus:** Distributed systems, high-concurrency microservices, database internals, and developer infrastructure.
+- **Active Exploration:** Policy engines (CEL/OPA), protocol design (gRPC / Protobuf), and local AI agent workflows.
 
 ---
 
-### 🛠️ Featured Projects
+### Technical Competencies
 
-#### 📚 [DogEar](https://github.com/ravithemore/DogEar)
-> *Discover books through people, not algorithms.*
-* **Description:** A modern social reading platform where readers share reviews, quotes, journals, and build community.
-* **Tech Stack:** Spring Boot, Next.js, PostgreSQL, Redis, JWT, Docker
-* **Links:** [Code Repository](https://github.com/ravithemore/DogEar) | [Live Site](https://dog-ear-nu.vercel.app)
-
-#### 💰 [ExpenseLens (Expend-lens)](https://github.com/ravithemore/Expend-lens)
-> *Know exactly where every rupee goes.*
-* **Description:** A privacy-first financial intelligence platform transforming raw bank statement CSV files into beautiful interactive spending insights.
-* **Tech Stack:** Spring Boot, Next.js, PostgreSQL, Tailwind CSS, Framer Motion
-* **Links:** [Code Repository](https://github.com/ravithemore/Expend-lens) | [Live Site](https://expend-lens.vercel.app/)
-
-#### 🏙️ **CodeScape** *(Coming Soon)*
-> *Google Maps for your codebase.*
-* **Description:** An interactive software visualization platform transforming Java/Spring Boot projects into navigable architecture maps.
-* **Tech Stack:** Graph Analysis, Static Code Parsing, Spring Boot, React
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | Java, Go, TypeScript, Python, SQL, Lua |
+| **Backend & Systems** | Spring Boot, Microservices, RESTful APIs, gRPC, Protobuf, Distributed Sharding |
+| **Data & Storage** | PostgreSQL, MySQL, Redis, GORM, Hibernate / Spring Data JPA |
+| **Infrastructure & Cloud** | Docker, AWS, GitHub Actions, CI/CD, Vercel |
+| **Frontend Architecture** | Next.js, React, Tailwind CSS, TypeScript |
 
 ---
 
-### 🌱 Currently Exploring
+### Open Source Work
 
-- 🤖 **AI Agents & LLM Integrations** for developer workflow automation.
-- 📐 **Software Architecture & System Design** for high-throughput distributed systems.
-- 🎨 **Product Design** focusing on micro-interactions and glassmorphic aesthetics.
+- **Distributed Systems & Storage:** Failover consensus, sharding health checks, and replication logic (`tarantool/vshard`).
+- **Policy & Security Tooling:** CEL evaluation fact projections, protobuf extensions, and cache invalidation (`agntcy/dir`).
+- **Developer Tooling & SDKs:** Code generation, CLI enhancements, and workflow automations.
+
+*[View full list of merged pull requests ↗](https://github.com/search?q=type%3Apr+author%3Aravithemore+-user%3Aravithemore&type=pullrequests)*
 
 ---
 
-<div align="center">
-  <i>"I enjoy building products that solve real problems through thoughtful engineering, clean design, and practical AI."</i>
-</div>
+### Selected Projects
+
+#### [GitShame](https://gitshame.dev/?user=ravithemore)
+> *Developer workflow and repository grading platform.*
+- Static commit and repository analysis tool providing actionable engineering health scores.
+- Designed clean scoring algorithms evaluating git hygiene, commit frequency, and documentation quality.
+
+#### [DogEar](https://github.com/ravithemore/DogEar) • [Live Demo](https://dog-ear-nu.vercel.app)
+> *Community-driven social reading platform.*
+- Built a modular Spring Boot backend backed by PostgreSQL and Redis caching for social feed querying and review indexing.
+- Designed low-latency JWT authentication and structured database indexing for rapid reader discovery.
+- **Stack:** Spring Boot, Next.js, PostgreSQL, Redis, Docker
+
+#### [ExpenseLens](https://github.com/ravithemore/Expend-lens) • [Live Demo](https://expend-lens.vercel.app/)
+> *Privacy-first financial intelligence & statement parser.*
+- Built an offline-first transaction parser transforming varied bank statement CSV schemas into normalized transaction models.
+- Interactive visualization dashboard with granular spending breakdowns and budget tracking.
+- **Stack:** Spring Boot, Next.js, PostgreSQL, Tailwind CSS
+
+#### CodeScape *(In Development)*
+> *Static codebase visualization and architecture mapping engine.*
+- AST parsing and dependency graph engine that renders navigable architecture maps for monolithic and microservice codebases.
+- Focuses on resolving circular dependencies and surfacing hidden service coupling.
+
+---
+
+### Contact & Profiles
+
+- **LinkedIn:** [linkedin.com/in/ravithemore](https://linkedin.com/in/ravithemore)
+- **Portfolio:** [ravithemore.vercel.app](https://ravithemore.vercel.app/)
+- **Email:** [damorravi540@gmail.com](mailto:damorravi540@gmail.com)
